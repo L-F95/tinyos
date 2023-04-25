@@ -1,0 +1,5 @@
+bochsrc
+bochsrc.gdb
+*.ini
+
+build/

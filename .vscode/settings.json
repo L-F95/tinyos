@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "debug.h": "c",
+        "string.h": "c",
+        "task.h": "c",
+        "time.h": "c",
+        "types.h": "c",
+        "printk.h": "c",
+        "stdlib.h": "c",
+        "interrupt.h": "c",
+        "list.h": "c",
+        "assert.h": "c",
+        "arena.h": "c",
+        "memory.h": "c",
+        "bitmap.h": "c"
+    }
+}
